@@ -1,0 +1,12 @@
+Building FujiCoin
+
+See doc/readme-qt.rst for instructions on building FujiCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FujiCoin.
+
+See doc/build-*.txt for instructions on building fujicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FujiCoin.
+
+Further build information and documentation is available at
+the official FujiCoin website, http://www.fujicoin.com

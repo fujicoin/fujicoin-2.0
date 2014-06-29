@@ -19,8 +19,6 @@ FujiCoin is a lite version of Bitcoin using Scrypt-N-Fixed as a proof-of-work al
 For more information, as well as an immediately useable, binary version of
 the FujiCoin client sofware, see http://www.fujicoin.org/
 
- - Spell of genesis is required to build the FujiCoin.
-
 License
 -------
 
