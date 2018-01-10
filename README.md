@@ -70,3 +70,9 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./fujicoin-qt_test
 
+Periodic review
+---------------
+
+### January 11, 2018: reviewed by Motty
+
+    There is no problem to be fixed or function to be changed or added in the source code.
